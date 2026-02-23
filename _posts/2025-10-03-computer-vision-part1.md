@@ -7,7 +7,7 @@ tags: [ANN, PyTorch, Feedforward, BackPropagation]
 permalink: /posts/chuong-1-ann/
 toc: true  
 ---
-
+_Xin chào mọi người, một số chủ đề mình sẽ chia sẻ và cùng nhau học với mọi người sẽ là AI - Computer Vision - Mong mọi người cùng nhau học hỏi và cùng nhau phát triển...._
 ## Khái niệm
 **Mạng Nơ-Ron nhân tạo ANN (Artificial Neural Network)** là một thuật toán học có giám sát, lấy cảm hứng từ cách hoạt động của não người. Mạng nhận **đầu vào** → **xử lý qua hàm kích hoạt** → **kích hoạt nơ-ron tiếp theo** → **tạo đầu ra (output)**.
 
